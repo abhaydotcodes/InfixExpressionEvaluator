@@ -11,7 +11,7 @@ This is a simple Java program that evaluates **mathematical expressions** (e.g.,
 - ✅ Parentheses for grouping
 - ✅ Input validation
 - ✅ Error handling (division by zero, invalid characters, mismatched parentheses)
-
+- ✅ Handles decimal values
 ---
 
 ## 📌 Sample Input
