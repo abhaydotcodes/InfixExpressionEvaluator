@@ -17,6 +17,6 @@ This is a simple Java program that evaluates **mathematical expressions** (e.g.,
 ## 📌 Sample Input
 
 ```text
-Enter your mathematical expression: (12+3)x(4-2)
+Enter your mathematical expression: (12+3)*(4-2)
 Result: 30
 
